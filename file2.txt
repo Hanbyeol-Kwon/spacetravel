@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [33mcommit 8f5ea754495f55a565ebf9f253278c3f928bb07f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
 Author: Hanbyeol-Kwon <valuable9951@gmail.com>
 Date:   Thu Dec 11 10:04:26 2025 +0900
@@ -21,3 +22,6 @@ Author: Hanbyeol-Kwon <valuable9951@gmail.com>
 Date:   Wed Dec 10 15:36:49 2025 +0900
 
     Initial commit
+=======
+깃허브 저장소에서 file2.txt
+>>>>>>> d9bab42fde4cd65a99bfa2eb74e5372256600bcf
